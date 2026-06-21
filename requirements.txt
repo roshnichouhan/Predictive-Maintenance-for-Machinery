@@ -15,7 +15,7 @@ Authlib==1.6.9
 babel==2.17.0
 beartype==0.22.9
 beautifulsoup4==4.14.2
-bleach==6.3.0
+bleach==6.4.0
 blinker==1.9.0
 cachetools==6.2.2
 caio==0.9.25
